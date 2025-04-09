@@ -8,7 +8,7 @@
         "UpdateSourceVersion": "{{Stream}}",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
-        "ForceDownloadPlatform": "Linux",
+        "ForceDownloadPlatform": "Windows",
         "DeleteAfterExtract": true,
         "OneShot": false
     }
