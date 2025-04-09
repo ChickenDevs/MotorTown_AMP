@@ -4,14 +4,14 @@
         "Category": "System Settings",
         "Subcategory": "Beta Streams:download",
         "Description": "\"public\" is default. \"beta\" is beta, \"test\" is for testers that want to play the next update early. NOTE: Update the server after changing release streams.",
-        "Keywords": "public,beta,test",
+        "Keywords": "public,beta,test,motortowndedi",
         "FieldName": "Stream",
         "InputType": "text",
         "IsFlagArgument": false,
         "ParamFieldName": "Stream",
         "IncludeInCommandLine": false,
-        "DefaultValue": "public",
-        "Placeholder": "public",
+        "DefaultValue": "motortowndedi",
+        "Placeholder": "motortowndedi",
         "EnumValues": {}
     }
 ]
