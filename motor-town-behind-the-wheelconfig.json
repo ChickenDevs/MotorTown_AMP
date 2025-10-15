@@ -10,8 +10,8 @@
         "IsFlagArgument": false,
         "ParamFieldName": "Stream",
         "IncludeInCommandLine": false,
-        "DefaultValue": "public",
-        "Placeholder": "public",
+        "DefaultValue": "test",
+        "Placeholder": "test",
         "EnumValues": {}
     }
 ]
